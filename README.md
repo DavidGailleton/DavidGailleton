@@ -8,6 +8,7 @@ Alternant developpeur
 *   🖥️  Voir mon portfolio sur [davidgailleton.me](http://davidgailleton.me/)
 *   ✉️  Vous pouvez me contacter : [david.gailleton@outlook.fr](mailto:david.gailleton@outlook.fr)
 
-## Projets
+Projets
+---------------------
 
 - [Equilibre et Romarin](https://equilibre-et-romarin.com/)
