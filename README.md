@@ -1,14 +1,12 @@
-Hi 👋 Je suis David GAILLETON
-================================
+# David Gailleton
 
-Alternant developpeur
----------------------
+Étudiant à **42**.  
 
-*   🌍  Je suis basé à Lyon
-*   🖥️  Voir mon portfolio sur [davidgailleton.me](http://davidgailleton.me/)
-*   ✉️  Vous pouvez me contacter : [david.gailleton@outlook.fr](mailto:david.gailleton@outlook.fr)
+## À propos
+- 🎓 Étudiant à 42 Lyon
+- 🔭 Actuellement : Tronc commun de 42
+- 🌱 En train d’apprendre : C / Python
 
-Projets
----------------------
-
-- [Equilibre et Romarin](https://equilibre-et-romarin.com/)
+## Compétences
+**Langages :** C, Python  
+**Outils :** Git, Linux, Docker, Make    
